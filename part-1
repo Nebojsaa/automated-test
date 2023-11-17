@@ -1,0 +1,16 @@
+1. Concurrency and Performance:
+Automation processes might need to handle multiple tasks concurrently, especially if dealing with a high-traffic website.
+Ensuring the automation tool can manage concurrency and maintain performance is important.
+
+2. Website Changes:
+Not sure how many differences are there and if this site is subject to changes in design and functionality. 
+Regular updates to the website might break your automation scripts. Implementing a monitoring system to detect changes and adjusting the automation accordingly is crucial.
+
+3. Dynamic Content and Structure:
+From just a look around 5 minutes, I see a use of dynamic content and structures, especially those related to events or ticketing. Automation tools may struggle with websites that load content dynamically using JavaScript. 
+Ensuring your automation tool can handle dynamically changing elements is crucial.
+
+4. Security measures: 
+This website uses CAPTCHA. This might be a challenge.
+Implementing solutions to bypass or deal with these security measures without violating the website's terms of service is a challenge.
+
